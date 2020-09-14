@@ -1,0 +1,4 @@
+// wallets
+export const WALLETS_LIST_FETCH = 'WALLETS_LIST_FETCH';
+export const WALLETS_LIST_DATA = 'WALLETS_LIST_DATA';
+export const WALLETS_LIST_ERROR = 'WALLETS_LIST_ERROR';
